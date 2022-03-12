@@ -1,8 +1,8 @@
-const azureRegex = {
+export const azureRegex = {
     applicationInsightsConnectionString: /\bInstrumentationKey=.{36}[;]\bIngestionEndpoint=https:\/\/.*\//
 }
 
-const azureRegions =
+export const azureRegions =
     [
         'eastus',
         'eastus2',
