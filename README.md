@@ -1,1 +1,2 @@
-# validazurevars
+# Valid Azure Vars
+This TypeScript file can be used with [joi](https://joi.dev/) or other validation packages to help ensure your .env variables for Azure resources are valid. I'll provide examples of how I use this in my projects soon. In the meantime, feel free to reach out if you have questions or need help. shanedjones@gmail.com
